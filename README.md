@@ -26,9 +26,41 @@
 ![Logo](https://img.freepik.com/vetores-gratis/ilustracao-isometrica-de-npl_23-2149260763.jpg?w=1380&t=st=1682808368~exp=1682808968~hmac=2a438ae507d8654379cb34fe1e71710d1b798edd2cf4b7535aba1a3ad8c7746a)
 
 
-## Projeto
+## Descrição do projeto
 
-Projeto para identificar pessoas com depressão utlizando machine learning. Análise de sentimentos aplicado machine learning para identificar pessoas com sinais de depressão nas redes sociais utlizando modelagem de tópicos. No final do projeto uma análise dos sentimentos para ser indentificados 
+Projeto de identificação de pessoas com depressão utilizando machine learning: Análise de sentimentos aplicada por meio de modelagem de tópicos nas redes sociais.
+
+# Introdução
+A depressão é uma doença mental que afeta milhões de pessoas em todo o mundo, e a identificação precoce dos sinais de depressão pode ser crucial para fornecer o suporte necessário. Com o avanço da tecnologia e o acesso generalizado às redes sociais, essas plataformas têm se tornado uma fonte de dados valiosa para identificar pessoas em risco ou com sintomas de depressão. Neste projeto, propomos a utilização de técnicas de machine learning para realizar uma análise de sentimentos e identificar indivíduos com sinais de depressão nas redes sociais.
+
+# Metodologia
+Para realizar essa identificação, utilizaremos técnicas de machine learning, em particular a análise de sentimentos e a modelagem de tópicos. A análise de sentimentos nos permite extrair informações sobre o estado emocional das pessoas com base nas mensagens e interações nas redes sociais. A modelagem de tópicos, por sua vez, permite agrupar os textos relacionados à depressão em categorias temáticas, facilitando a identificação de padrões e comportamentos associados à doença.
+
+# Passos do projeto
+
+1 Coleta de dados: Faremos a coleta de dados de diferentes plataformas de redes sociais, como Twitter, Facebook e Instagram. Esses dados serão compostos por mensagens, postagens, comentários e outras interações dos usuários.
+
+2 Pré-processamento de dados: Realizaremos a limpeza e o pré-processamento dos dados coletados. Isso inclui a remoção de caracteres especiais, stopwords e outras etapas de normalização do texto.
+
+3 Análise de sentimentos: Utilizaremos algoritmos de aprendizado de máquina para realizar a análise de sentimentos nas mensagens coletadas. Esses algoritmos serão treinados em um conjunto de dados rotulados para identificar se uma mensagem expressa sentimentos positivos, negativos ou neutros.
+
+4 Modelagem de tópicos: Aplicaremos técnicas de modelagem de tópicos, como o LDA (Latent Dirichlet Allocation), para identificar os principais tópicos relacionados à depressão nos dados coletados. Isso nos permitirá agrupar as mensagens em categorias temáticas relevantes.
+
+Identificação de sinais de depressão: Com base na análise de sentimentos e na modelagem de tópicos, desenvolveremos um algoritmo que será capaz de identificar pessoas com sinais de depressão. Esse algoritmo levará em consideração padrões de sentimentos negativos e a presença de mensagens relacionadas a tópicos característicos da depressão.
+
+# Conclusão
+Esse projeto tem como objetivo utilizar técnicas de machine learning, como análise de sentimentos e modelagem de tópicos, para identificar pessoas com sinais de depressão nas redes sociais. Ao analisar as interações dos usuários, poderemos identificar padrões e comportamentos associados à doença, permitindo uma intervenção precoce e o fornecimento de suporte adequado às pessoas em risco. A utilização da tecnologia em saúde mental oferece novas possibilidades para abordar problemas de saúde pública, como a depressão, de forma mais eficiente e acessível. Além disso, a abordagem baseada em machine learning permite automatizar o processo de identificação, tornando-o escalável para lidar com grandes volumes de dados nas redes sociais.
+
+É importante ressaltar que a detecção de sinais de depressão com base em análise de sentimentos nas redes sociais não substitui um diagnóstico médico profissional. No entanto, pode servir como uma ferramenta complementar para triagem e identificação preliminar de indivíduos que possam estar em risco. Os resultados obtidos com esse projeto podem fornecer insights valiosos para profissionais de saúde mental e pesquisadores, auxiliando-os na compreensão dos padrões e fatores de risco associados à depressão.
+
+Para garantir a privacidade e a ética na utilização dos dados, será fundamental obter consentimento dos usuários para a coleta e análise das informações. Além disso, medidas de anonimização e segurança dos dados devem ser implementadas para proteger a identidade e a privacidade dos indivíduos envolvidos.
+
+No final do projeto, após a identificação das pessoas com sinais de depressão, será possível realizar uma análise mais aprofundada dos sentimentos e dos tópicos identificados. Isso pode incluir a identificação de palavras-chave associadas à depressão, análise de tendências temporais, comparação de diferentes grupos demográficos, entre outros aspectos relevantes.
+
+Em resumo, esse projeto propõe a utilização de técnicas de machine learning, como análise de sentimentos e modelagem de tópicos, para identificar pessoas com sinais de depressão nas redes sociais. A análise automatizada e em larga escala desses dados pode contribuir para a detecção precoce, o suporte adequado e a pesquisa relacionada à saúde mental, visando melhorar o bem-estar e a qualidade de vida das pessoas afetadas pela depressão.
+
+
+
 
 ## Stack utilizada
 
